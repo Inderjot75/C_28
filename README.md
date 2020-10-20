@@ -1,2 +1,2 @@
-# C_28
-Angry Bird Catapult2.0
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
